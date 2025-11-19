@@ -33,11 +33,22 @@ namespace ConsoleApp1.Interface.Factory_Method
     {
         public static ICurrency CreateCurrency(string type)
         {
-            if (type == "usd") return new Dollar();
-            if (type == "inr") return new Rupee();
-            if (type == "eur") return new Euro();
-
-            throw new Exception("Invalid currency type");
+            if (type == "usd")
+            {
+                return new Dollar();
+            }
+            else if (type == "inr")
+            {
+                return new Rupee();
+            }
+            else if (type == "eur")
+            {
+                return new Euro();
+            }
+            else
+            {   
+                return new Rupee();
+            }
         }
     }
 
