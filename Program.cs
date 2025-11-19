@@ -7,7 +7,7 @@ using ConsoleApp1.Constructor.ConsoleApp1.StaticExample;
 using ConsoleApp1.Constructor.DemoProject.StaticExamples;
 using ConsoleApp1.If_Else;
 using ConsoleApp1.Inheritance;
-using ConsoleApp1.Interface;
+using ConsoleApp1.Interface.Factory_Method;
 using ConsoleApp1.Loops;
 using ConsoleApp1.Loops2;
 using ConsoleApp1.Pattern;
@@ -123,7 +123,7 @@ class Program
         //Code9.SortAscending();
         //Code10.GetLength();
 
-        
+        CurrencyTest.M1();
 
 
 
