@@ -66,6 +66,6 @@ namespace ConsoleApp1.Interface.Factory_Method
             Console.WriteLine(c3.GetSymbol());   
         }
     }
-}  
+}//CurrencyTest.M1();
 
 

@@ -123,8 +123,8 @@ class Program
         //Code9.SortAscending();
         //Code10.GetLength();
 
-        CurrencyTest.M1();
-
+        
+        
 
 
 
