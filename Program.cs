@@ -5,13 +5,17 @@ using ConsoleApp1.Class;
 using ConsoleApp1.Constructor;
 using ConsoleApp1.Constructor.ConsoleApp1.StaticExample;
 using ConsoleApp1.Constructor.DemoProject.StaticExamples;
+using ConsoleApp1.File_Handling;
 using ConsoleApp1.If_Else;
 using ConsoleApp1.Inheritance;
+using ConsoleApp1.Interface;
 using ConsoleApp1.Interface.Factory_Method;
+using ConsoleApp1.Interface.TicTacToeOOP;
 using ConsoleApp1.Loops;
 using ConsoleApp1.Loops2;
 using ConsoleApp1.Pattern;
 using ConsoleApp1.Polymorphism;
+using ConsoleApp1.Practise;
 using ConsoleApp1.Static_Keyword;
 using ConsoleApp1.String;
 using ConsoleApp1.Switch_Case;
@@ -123,8 +127,11 @@ class Program
         //Code9.SortAscending();
         //Code10.GetLength();
 
-        
-        
+        //TicTacToeOOP1.M1();
+        //Practise1.UserArray();
+        //PartialClassDemo.M1();
+        StudentInfoDisplay.M1();
+
 
 
 
