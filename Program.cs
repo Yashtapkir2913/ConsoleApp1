@@ -19,6 +19,7 @@ using ConsoleApp1.Practise;
 using ConsoleApp1.Static_Keyword;
 using ConsoleApp1.String;
 using ConsoleApp1.Switch_Case;
+using ConsoleApp1.Delegates;
 using ConsoleApp1.Ternary_Operator;
 using static ConsoleApp1.Class.Student;
 using static ConsoleApp1.Constructor.Bank;
@@ -130,7 +131,8 @@ class Program
         //TicTacToeOOP1.M1();
         //Practise1.UserArray();
         //PartialClassDemo.M1();
-        StudentInfoDisplay.M1();
+        //StudentInfoDisplay.M1();
+        Del3.M3();
 
 
 
