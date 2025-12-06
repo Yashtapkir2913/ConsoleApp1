@@ -132,7 +132,7 @@ class Program
         //Practise1.UserArray();
         //PartialClassDemo.M1();
         //StudentInfoDisplay.M1();
-        Del3.M3();
+        EmpCls.M1();
 
 
 
