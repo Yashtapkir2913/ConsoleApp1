@@ -2,9 +2,11 @@
 using ConsoleApp1.Array;
 using ConsoleApp1.Basics;
 using ConsoleApp1.Class;
+using ConsoleApp1.Collections;
 using ConsoleApp1.Constructor;
 using ConsoleApp1.Constructor.ConsoleApp1.StaticExample;
 using ConsoleApp1.Constructor.DemoProject.StaticExamples;
+using ConsoleApp1.Delegates;
 using ConsoleApp1.File_Handling;
 using ConsoleApp1.If_Else;
 using ConsoleApp1.Inheritance;
@@ -19,7 +21,6 @@ using ConsoleApp1.Practise;
 using ConsoleApp1.Static_Keyword;
 using ConsoleApp1.String;
 using ConsoleApp1.Switch_Case;
-using ConsoleApp1.Delegates;
 using ConsoleApp1.Ternary_Operator;
 using static ConsoleApp1.Class.Student;
 using static ConsoleApp1.Constructor.Bank;
@@ -132,7 +133,8 @@ class Program
         //Practise1.UserArray();
         //PartialClassDemo.M1();
         //StudentInfoDisplay.M1();
-        EmpCls.M1();
+        //StudColl.M1();
+        //StudColl1.M1();
 
 
 
