@@ -135,7 +135,7 @@ class Program
         //StudentInfoDisplay.M1();
         //StudColl.M1();
         //StudColl1.M1();
-
+        MyDelClass.M1();
 
 
 
